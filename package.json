@@ -10,12 +10,20 @@
     "url": "http://about.me/kinzal"
   },
   "keywords": [
+    "gruntplugin",
     "sstp",
-    "notify"
+    "notify",
+    "notification",
+    "error",
+    "warning",
+    "automatic"
   ],
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.11.13"
+  },
+  "scripts": {
+    "test": "grunt test"
   },
   "licenses": [
     {

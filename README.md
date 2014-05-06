@@ -6,6 +6,8 @@
 
 > Grunt notify by Sakura Script Transfer Protocol.
 
+![Image](https://raw.githubusercontent.com/k-kinzal/grunt-sstp/master/assets/unyu_and_sakura.png)
+
 ## Getting Started
 This plugin requires Grunt.
 

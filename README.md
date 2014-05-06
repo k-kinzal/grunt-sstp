@@ -1,5 +1,9 @@
 # grunt-sstp
 
+[![Build Status](https://travis-ci.org/k-kinzal/grunt-sstp.svg?branch=develop)](https://travis-ci.org/k-kinzal/grunt-sstp)
+[![Dependency Status](https://david-dm.org/k-kinzal/grunt-sstp.png?theme=shields.io)](https://david-dm.org/k-kinzal/grunt-sstp)
+[![devDependency Status](https://david-dm.org/k-kinzal/grunt-sstp/dev-status.png?theme=shields.io)](https://david-dm.org/k-kinzal/grunt-sstp#info=devDependencies)
+
 > Grunt notify by Sakura Script Transfer Protocol.
 
 ## Getting Started

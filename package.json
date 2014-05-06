@@ -1,0 +1,45 @@
+{
+  "name": "grunt-sstp",
+  "version": "0.0.1",
+  "description": "Grunt notify by Sakura Script Transfer Protocol.",
+  "homepage": "https://github.com/k-kinzal/grunt-sstp",
+  "repository": "https://github.com/k-kinzal/grunt-sstp",
+  "author": {
+    "name": "k-kinzal",
+    "email": "log@logn.in",
+    "url": "http://about.me/kinzal"
+  },
+  "keywords": [
+    "gruntplugin",
+    "sstp",
+    "notify",
+    "notification",
+    "error",
+    "warning",
+    "automatic"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.11.13"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "time-grunt": "~0.3.1",
+    "load-grunt-tasks": "~0.4.0",
+    "grunt-mocha-test": "~0.10.2",
+    "mocha": "~1.18.0",
+    "chai": "~1.9.1"
+  },
+  "dependencies": {
+    "net": "~1.0.2",
+    "hooker": "~0.2.3"
+  }
+}

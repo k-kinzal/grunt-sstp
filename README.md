@@ -105,4 +105,4 @@ A fatal error command. it performs, when  fatal error occurs in Grunt.
 [http://usada.sakura.vg/contents/shell.html](http://usada.sakura.vg/contents/shell.html)
 
 ## License
-Copyright (c) 2014 k-kinzal. Licensed under the MIT license.
+Copyright (c) 2014 k-kinzal. Licensed under the MIT license.a
